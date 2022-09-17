@@ -11,5 +11,8 @@
     "json-server"
   ],
   "author": "nilia2020",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
 }
