@@ -106,10 +106,10 @@
       },
       {
         "id": 14,
-        "image": "https://bachelordrinks.com.ar/wp-content/uploads/2020/08/productos-vodka-01.jpg",
+        "image": "https://www.tubodega.com.ar/productos/pravda-vodka-750ml/",
         "name": "Pravda",
-        "price": "11970",
-        "content": 1,
+        "price": "14970",
+        "content": 0.75,
         "category": "vodka"
       }
     ],
